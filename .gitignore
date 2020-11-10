@@ -45,6 +45,15 @@ Icon
 
 .gradle
 /build/
+!gradle/wrapper/gradle-wrapper.jar
+!**/src/main/**/build/
+!**/src/test/**/build/
+gradlew
+gradlew.bat
+settings.gradle
+gradle/
+HELP.md
+
 
 # Ignore Gradle GUI config
 gradle-app.setting
